@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ryan (Vinh Minh Dang)
 
-🎓 3rd Year Software Engineering Student at Seneca Polytechnic 
-💻 Passionate about building full-stack systems, AI-powered applications, and scalable architectures  
-🚀 Focused on real-world engineering: system design, ML integration, and cloud deployment  
+🎓 3rd Year Software Engineering Student at Seneca Polytechnic   
+💻 Passionate about building full-stack systems, AI-powered applications, and scalable architectures    
+🚀 Focused on real-world engineering: system design, ML integration, and cloud deployment    
 
 ### 🌐 Connect With Me
 
